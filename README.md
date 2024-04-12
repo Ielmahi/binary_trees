@@ -42,7 +42,6 @@ Files | Description
 [17-binary_tree_sibling.c](./17-binary_tree_sibling.c) | C function that finds the sibling of a node
 [18-binary_tree_uncle.c](./18-binary_tree_uncle.c) | C function that finds the uncle of a node
 
-### Authors
-* [Nicks](https://github.com/nickssilver) - [@_pronicks](https://twitter.com/_pronicks)
+
 
 
